@@ -1,0 +1,27 @@
+{
+  "name": "programming-hero-theme",
+  "displayName": "programming-hero-theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "TasnimulHasan",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "programming-hero"
+  ],
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Programming Hero Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Programming Hero Theme-color-theme.json"
+      }
+    ]
+  }
+}
