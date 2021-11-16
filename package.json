@@ -12,6 +12,10 @@
   "engines": {
     "vscode": "^1.62.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TasnimulHasan007/programming-hero-vscode-theme"
+  },
   "categories": [
     "Themes"
   ],
